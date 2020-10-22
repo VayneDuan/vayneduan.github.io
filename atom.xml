@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Duan&#39;s Blog</title>
-  
+  <icon>https://www.gravatar.com/avatar/dc2e3610e9ab9aa4341fa839e3317f1b</icon>
   <subtitle>段贤维的博客</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="http://duan8.xyz/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="http://duan8.xyz/"/>
   <updated>2020-10-22T04:29:36.200Z</updated>
-  <id>http://example.com/</id>
+  <id>http://duan8.xyz/</id>
   
   <author>
     <name>Vayne Duan</name>
-    
+    <email>vayneduan@foxmail.com</email>
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
     <title>tommorrow</title>
-    <link href="http://example.com/2020/10/22/tommorrow/"/>
-    <id>http://example.com/2020/10/22/tommorrow/</id>
+    <link href="http://duan8.xyz/2020/10/22/tommorrow/"/>
+    <id>http://duan8.xyz/2020/10/22/tommorrow/</id>
     <published>2020-10-22T04:29:36.000Z</published>
     <updated>2020-10-22T04:29:36.200Z</updated>
     
@@ -31,8 +31,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2020/10/21/hello-world/"/>
-    <id>http://example.com/2020/10/21/hello-world/</id>
+    <link href="http://duan8.xyz/2020/10/21/hello-world/"/>
+    <id>http://duan8.xyz/2020/10/21/hello-world/</id>
     <published>2020-10-20T17:54:14.230Z</published>
     <updated>2020-10-20T17:54:14.230Z</updated>
     

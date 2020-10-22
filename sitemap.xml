@@ -2,14 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/2020/10/22/tommorrow/</loc>
+    <loc>http://duan8.xyz/link/index.html</loc>
     
     <lastmod>2020-10-22</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/2020/10/21/hello-world/</loc>
+    <loc>http://duan8.xyz/categories/index.html</loc>
+    
+    <lastmod>2020-10-22</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://duan8.xyz/tags/index.html</loc>
+    
+    <lastmod>2020-10-22</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://duan8.xyz/2020/10/22/tommorrow/</loc>
+    
+    <lastmod>2020-10-22</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://duan8.xyz/2020/10/21/hello-world/</loc>
     
     <lastmod>2020-10-20</lastmod>
     
@@ -17,7 +38,7 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
+    <loc>http://duan8.xyz/</loc>
     <lastmod>2020-10-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
