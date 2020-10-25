@@ -5,10 +5,10 @@
     
     <entry>
       <title>cat</title>
-      <link href="2020/10/26/cat/"/>
-      <url>2020/10/26/cat/</url>
+      <link href="posts/9e5e43a8.html"/>
+      <url>posts/9e5e43a8.html</url>
       
-        <content type="html"><![CDATA[<h1 id="I-will-show-cat"><a href="#I-will-show-cat" class="headerlink" title="I will show cat"></a>I will show cat</h1><img src="/2020/10/26/cat/cat.jpg" class="" title><h1 id="cover"><a href="#cover" class="headerlink" title="cover: "></a>cover: <img src="/2020/10/26/cat/cat.jpg" class="" title></h1><p>#top_img: <img src="/2020/10/26/cat/cat.jpg" class="" title></p><p>hello</p><img src="/2020/10/26/cat/cat.jpg" class="" title><p><img src="https://wallroom.io/img/1920x1080/bg-8199743.jpg" alt="this is a exampl"></p>]]></content>
+        <content type="html"><![CDATA[<h1 id="I-will-show-cat"><a href="#I-will-show-cat" class="headerlink" title="I will show cat"></a>I will show cat</h1><img src="/posts/9e5e43a8/cat.jpg" class="" title><h1 id="cover"><a href="#cover" class="headerlink" title="cover: "></a>cover: <img src="/posts/9e5e43a8/cat.jpg" class="" title></h1><p>#top_img: <img src="/posts/9e5e43a8/cat.jpg" class="" title></p><p>hello</p><img src="/posts/9e5e43a8/cat.jpg" class="" title><p><img src="https://wallroom.io/img/1920x1080/bg-8199743.jpg" alt="this is a exampl"></p>]]></content>
       
       
       <categories>
@@ -32,8 +32,8 @@
     
     <entry>
       <title>showcat</title>
-      <link href="2020/10/26/showcat/"/>
-      <url>2020/10/26/showcat/</url>
+      <link href="posts/28de7afc.html"/>
+      <url>posts/28de7afc.html</url>
       
         <content type="html"><![CDATA[<h1 id="I-will-show-cat"><a href="#I-will-show-cat" class="headerlink" title="I will show cat"></a>I will show cat</h1><p><img src="/cat/cat.jpg" alt="cat"></p><h1 id="cover"><a href="#cover" class="headerlink" title="cover: "></a>cover: <img src="/cat/cat.jpg" alt="cat"></h1><p>#top_img: <img src="/cat/cat.jpg" alt="cat"></p><p>hello</p>]]></content>
       
@@ -59,8 +59,8 @@
     
     <entry>
       <title>tommorrow</title>
-      <link href="2020/10/22/tommorrow/"/>
-      <url>2020/10/22/tommorrow/</url>
+      <link href="posts/undefined.html"/>
+      <url>posts/undefined.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -72,8 +72,8 @@
     
     <entry>
       <title>Hello World</title>
-      <link href="2020/10/21/hello-world/"/>
-      <url>2020/10/21/hello-world/</url>
+      <link href="posts/4a17b156.html"/>
+      <url>posts/4a17b156.html</url>
       
         <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
       
@@ -98,9 +98,9 @@
     
     
     <entry>
-      <title>标签</title>
-      <link href="tags/index.html"/>
-      <url>tags/index.html</url>
+      <title>友情链接</title>
+      <link href="link/index.html"/>
+      <url>link/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -109,9 +109,9 @@
     
     
     <entry>
-      <title>友情链接</title>
-      <link href="link/index.html"/>
-      <url>link/index.html</url>
+      <title>标签</title>
+      <link href="tags/index.html"/>
+      <url>tags/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       

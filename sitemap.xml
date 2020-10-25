@@ -2,14 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://duan8.xyz/2020/10/26/cat/</loc>
+    <loc>http://duan8.xyz/posts/9e5e43a8.html</loc>
     
     <lastmod>2020-10-25</lastmod>
     
   </url>
   
   <url>
-    <loc>http://duan8.xyz/2020/10/26/showcat/</loc>
+    <loc>http://duan8.xyz/posts/28de7afc.html</loc>
+    
+    <lastmod>2020-10-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://duan8.xyz/posts/4a17b156.html</loc>
     
     <lastmod>2020-10-25</lastmod>
     
@@ -37,16 +44,9 @@
   </url>
   
   <url>
-    <loc>http://duan8.xyz/2020/10/22/tommorrow/</loc>
+    <loc>http://duan8.xyz/posts/undefined.html</loc>
     
     <lastmod>2020-10-22</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://duan8.xyz/2020/10/21/hello-world/</loc>
-    
-    <lastmod>2020-10-20</lastmod>
     
   </url>
   
