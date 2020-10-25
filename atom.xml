@@ -6,7 +6,7 @@
   <link href="http://duan8.xyz/atom.xml" rel="self"/>
   
   <link href="http://duan8.xyz/"/>
-  <updated>2020-10-22T04:29:36.200Z</updated>
+  <updated>2020-10-25T18:59:43.640Z</updated>
   <id>http://duan8.xyz/</id>
   
   <author>
@@ -15,6 +15,52 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>cat</title>
+    <link href="http://duan8.xyz/2020/10/26/cat/"/>
+    <id>http://duan8.xyz/2020/10/26/cat/</id>
+    <published>2020-10-25T18:35:34.000Z</published>
+    <updated>2020-10-25T18:59:43.640Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="I-will-show-cat"><a href="#I-will-show-cat" class="headerlink" title="I will show cat"></a>I will show cat</h1><img src="/2020/10/26/cat/cat.jpg" class="" title><h1 id="cover"><a href="#cover" class="headerlink" title="cover: "></a>cover: <img src="/2020/10/26/cat/cat.jpg" class="" title></h1><p>#top_img: <img src="/2020/10/26/cat/cat.jpg" class="" title></p><p>hello</p><img src="/2020/10/26/cat/cat.jpg" class="" title><p><img src="https://wallroom.io/img/1920x1080/bg-8199743.jpg" alt="this is a exampl"></p>]]></content>
+    
+    
+    <summary type="html">this is a test md</summary>
+    
+    
+    
+    <category term="test" scheme="http://duan8.xyz/categories/test/"/>
+    
+    
+    <category term="test" scheme="http://duan8.xyz/tags/test/"/>
+    
+    <category term="hello" scheme="http://duan8.xyz/tags/hello/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>showcat</title>
+    <link href="http://duan8.xyz/2020/10/26/showcat/"/>
+    <id>http://duan8.xyz/2020/10/26/showcat/</id>
+    <published>2020-10-25T18:15:34.000Z</published>
+    <updated>2020-10-25T18:43:44.663Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="I-will-show-cat"><a href="#I-will-show-cat" class="headerlink" title="I will show cat"></a>I will show cat</h1><p><img src="/cat/cat.jpg" alt="cat"></p><h1 id="cover"><a href="#cover" class="headerlink" title="cover: "></a>cover: <img src="/cat/cat.jpg" alt="cat"></h1><p>#top_img: <img src="/cat/cat.jpg" alt="cat"></p><p>hello</p>]]></content>
+    
+    
+    <summary type="html">this is a test md</summary>
+    
+    
+    
+    <category term="test" scheme="http://duan8.xyz/categories/test/"/>
+    
+    
+    <category term="test" scheme="http://duan8.xyz/tags/test/"/>
+    
+    <category term="hello" scheme="http://duan8.xyz/tags/hello/"/>
+    
+  </entry>
   
   <entry>
     <title>tommorrow</title>

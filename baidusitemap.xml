@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://duan8.xyz/2020/10/26/cat/</loc>
+    <lastmod>2020-10-25</lastmod>
+  </url>
+  <url>
+    <loc>http://duan8.xyz/2020/10/26/showcat/</loc>
+    <lastmod>2020-10-25</lastmod>
+  </url>
+  <url>
     <loc>http://duan8.xyz/2020/10/22/tommorrow/</loc>
     <lastmod>2020-10-22</lastmod>
   </url>
