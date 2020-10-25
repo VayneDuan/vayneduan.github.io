@@ -87,9 +87,20 @@
     
     
     <entry>
-      <title>分类</title>
-      <link href="categories/index.html"/>
-      <url>categories/index.html</url>
+      <title>about</title>
+      <link href="about/index.html"/>
+      <url>about/index.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="关于我"><a href="#关于我" class="headerlink" title="关于我"></a>关于我</h1><ul><li>段贤维</li><li>四川广汉</li><li>重庆大学大三</li><li>计算机科学与技术</li></ul><h1 id="博客简介"><a href="#博客简介" class="headerlink" title="博客简介"></a>博客简介</h1><ul><li>基于Hexo框架 + Butterfly主题</li><li>课程笔记</li><li>技术分享</li><li>[留坑]</li></ul><h1 id="学习计划"><a href="#学习计划" class="headerlink" title="学习计划"></a>学习计划</h1><ul><li><input disabled="" type="checkbox"> Linux</li><li><input disabled="" type="checkbox"> Kaggle</li><li><input disabled="" type="checkbox"> [留坑]</li></ul>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>标签</title>
+      <link href="tags/index.html"/>
+      <url>tags/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -109,9 +120,9 @@
     
     
     <entry>
-      <title>标签</title>
-      <link href="tags/index.html"/>
-      <url>tags/index.html</url>
+      <title>分类</title>
+      <link href="categories/index.html"/>
+      <url>categories/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
