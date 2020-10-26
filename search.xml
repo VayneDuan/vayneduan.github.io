@@ -58,19 +58,6 @@
     
     
     <entry>
-      <title>tommorrow</title>
-      <link href="posts/undefined.html"/>
-      <url>posts/undefined.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>Hello World</title>
       <link href="posts/4a17b156.html"/>
       <url>posts/4a17b156.html</url>
@@ -91,7 +78,7 @@
       <link href="about/index.html"/>
       <url>about/index.html</url>
       
-        <content type="html"><![CDATA[<h1 id="关于博主"><a href="#关于博主" class="headerlink" title="关于博主"></a>关于博主</h1><ul><li>段贤维</li><li>四川广汉</li><li>重庆大学2018级(目前大三)</li><li>计算机科学与技术</li></ul><h1 id="联系我"><a href="#联系我" class="headerlink" title="联系我"></a>联系我</h1><ul><li>QQ: 308647801</li><li>WeChat: dxw308647801</li><li>Emaile : <a href="mailto:&#118;&#97;&#121;&#110;&#101;&#100;&#117;&#97;&#x6e;&#64;&#x66;&#x6f;&#120;&#109;&#x61;&#x69;&#108;&#x2e;&#99;&#x6f;&#109;">&#118;&#97;&#121;&#110;&#101;&#100;&#117;&#97;&#x6e;&#64;&#x66;&#x6f;&#120;&#109;&#x61;&#x69;&#108;&#x2e;&#99;&#x6f;&#109;</a></li></ul><h1 id="技术栈"><a href="#技术栈" class="headerlink" title="技术栈"></a>技术栈</h1><ul><li>C++</li><li>Java</li><li>Python</li><li>以上都菜得离谱…</li></ul><h1 id="博客简介"><a href="#博客简介" class="headerlink" title="博客简介"></a>博客简介</h1><ul><li>技术分享</li><li>O J 题解</li><li>课程笔记</li><li>日常分享</li><li>个人总结</li><li>学习体会</li></ul><h1 id="学习计划"><a href="#学习计划" class="headerlink" title="学习计划"></a>学习计划</h1><ul><li><input disabled="" type="checkbox"> Linux</li><li><input disabled="" type="checkbox"> Kaggle</li><li><input disabled="" type="checkbox"> Pytorch</li><li><input disabled="" type="checkbox"> C++实战</li></ul>]]></content>
+        <content type="html"><![CDATA[<h1 id="关于博主"><a href="#关于博主" class="headerlink" title="关于博主"></a>关于博主</h1><ul><li>段贤维</li><li>四川广汉</li><li>重庆大学2018级(目前大三)</li><li>计算机科学与技术</li></ul><h1 id="联系我"><a href="#联系我" class="headerlink" title="联系我"></a>联系我</h1><ul><li>QQ: 308647801</li><li>WeChat: dxw308647801</li><li>Emaile : <a href="mailto:&#118;&#97;&#121;&#x6e;&#101;&#x64;&#x75;&#x61;&#110;&#x40;&#102;&#x6f;&#120;&#x6d;&#97;&#105;&#x6c;&#46;&#x63;&#111;&#x6d;">&#118;&#97;&#121;&#x6e;&#101;&#x64;&#x75;&#x61;&#110;&#x40;&#102;&#x6f;&#120;&#x6d;&#97;&#105;&#x6c;&#46;&#x63;&#111;&#x6d;</a></li></ul><h1 id="技术栈"><a href="#技术栈" class="headerlink" title="技术栈"></a>技术栈</h1><ul><li>C++</li><li>Java</li><li>Python</li><li>以上都菜得离谱…</li></ul><h1 id="博客简介"><a href="#博客简介" class="headerlink" title="博客简介"></a>博客简介</h1><ul><li>技术分享</li><li>O J 题解</li><li>课程笔记</li><li>日常分享</li><li>个人总结</li><li>学习体会</li></ul><h1 id="学习计划"><a href="#学习计划" class="headerlink" title="学习计划"></a>学习计划</h1><ul><li><input disabled="" type="checkbox"> Linux</li><li><input disabled="" type="checkbox"> Kaggle</li><li><input disabled="" type="checkbox"> Pytorch</li><li><input disabled="" type="checkbox"> C++实战</li></ul>]]></content>
       
     </entry>
     
@@ -120,7 +107,7 @@
     
     
     <entry>
-      <title>把我, 一览无遗。</title>
+      <title>文章分类</title>
       <link href="categories/index.html"/>
       <url>categories/index.html</url>
       
