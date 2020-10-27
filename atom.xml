@@ -6,7 +6,7 @@
   <link href="http://duan8.xyz/atom.xml" rel="self"/>
   
   <link href="http://duan8.xyz/"/>
-  <updated>2020-10-25T19:12:41.813Z</updated>
+  <updated>2020-10-27T06:03:07.643Z</updated>
   <id>http://duan8.xyz/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>OJ</title>
+    <link href="http://duan8.xyz/posts/a031e9bb.html"/>
+    <id>http://duan8.xyz/posts/a031e9bb.html</id>
+    <published>2020-10-27T05:47:51.000Z</published>
+    <updated>2020-10-27T06:03:07.643Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="1-输入重定向-告别复制粘贴样例"><a href="#1-输入重定向-告别复制粘贴样例" class="headerlink" title="1. 输入重定向, 告别复制粘贴样例"></a>1. 输入重定向, 告别复制粘贴样例</h1>]]></content>
+    
+    
+    <summary type="html">刷OJ时的一些小技巧(持续更新中)</summary>
+    
+    
+    
+    <category term="OJ题解" scheme="http://duan8.xyz/categories/OJ%E9%A2%98%E8%A7%A3/"/>
+    
+    
+    <category term="OJ" scheme="http://duan8.xyz/tags/OJ/"/>
+    
+    <category term="技巧" scheme="http://duan8.xyz/tags/%E6%8A%80%E5%B7%A7/"/>
+    
+  </entry>
   
   <entry>
     <title>cat</title>

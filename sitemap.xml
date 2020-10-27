@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://duan8.xyz/posts/a031e9bb.html</loc>
+    
+    <lastmod>2020-10-27</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://duan8.xyz/about/index.html</loc>
     
     <lastmod>2020-10-26</lastmod>
@@ -60,7 +67,7 @@
 
   <url>
     <loc>http://duan8.xyz/</loc>
-    <lastmod>2020-10-26</lastmod>
+    <lastmod>2020-10-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -68,14 +75,28 @@
   
   <url>
     <loc>http://duan8.xyz/tags/test/</loc>
-    <lastmod>2020-10-26</lastmod>
+    <lastmod>2020-10-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://duan8.xyz/tags/hello/</loc>
-    <lastmod>2020-10-26</lastmod>
+    <lastmod>2020-10-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://duan8.xyz/tags/OJ/</loc>
+    <lastmod>2020-10-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://duan8.xyz/tags/%E6%8A%80%E5%B7%A7/</loc>
+    <lastmod>2020-10-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -84,7 +105,14 @@
   
   <url>
     <loc>http://duan8.xyz/categories/test/</loc>
-    <lastmod>2020-10-26</lastmod>
+    <lastmod>2020-10-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://duan8.xyz/categories/OJ%E9%A2%98%E8%A7%A3/</loc>
+    <lastmod>2020-10-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
