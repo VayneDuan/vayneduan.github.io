@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>第8章-文件系统</title>
+      <link href="posts/9cf1fccf.html"/>
+      <url>posts/9cf1fccf.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="文件"><a href="#文件" class="headerlink" title="文件"></a>文件</h1><h1 id="文件系统"><a href="#文件系统" class="headerlink" title="文件系统"></a>文件系统</h1><h1 id="文件的逻辑结构"><a href="#文件的逻辑结构" class="headerlink" title="文件的逻辑结构"></a>文件的逻辑结构</h1><h2 id="堆结构"><a href="#堆结构" class="headerlink" title="堆结构"></a>堆结构</h2><h2 id="顺序结构"><a href="#顺序结构" class="headerlink" title="顺序结构"></a>顺序结构</h2><h2 id="散列结构"><a href="#散列结构" class="headerlink" title="散列结构"></a>散列结构</h2><h2 id="读写方式"><a href="#读写方式" class="headerlink" title="读写方式"></a>读写方式</h2><h3 id="顺序读写"><a href="#顺序读写" class="headerlink" title="顺序读写"></a>顺序读写</h3><h3 id="直接读写-随机读写"><a href="#直接读写-随机读写" class="headerlink" title="直接读写(随机读写)"></a>直接读写(随机读写)</h3><h3 id="索引读写"><a href="#索引读写" class="headerlink" title="索引读写"></a>索引读写</h3><h1 id="文件的物理结构"><a href="#文件的物理结构" class="headerlink" title="文件的物理结构"></a>文件的物理结构</h1><h2 id="磁盘的成组与分解"><a href="#磁盘的成组与分解" class="headerlink" title="磁盘的成组与分解"></a>磁盘的成组与分解</h2><h2 id="连续文件"><a href="#连续文件" class="headerlink" title="连续文件"></a>连续文件</h2><h2 id="链接文件"><a href="#链接文件" class="headerlink" title="链接文件"></a>链接文件</h2><h3 id="隐式链接文件"><a href="#隐式链接文件" class="headerlink" title="隐式链接文件"></a>隐式链接文件</h3><h3 id="显式链接文件-FAT表"><a href="#显式链接文件-FAT表" class="headerlink" title="显式链接文件(FAT表)"></a>显式链接文件(FAT表)</h3><h3 id="索引文件"><a href="#索引文件" class="headerlink" title="索引文件"></a>索引文件</h3><h1 id="目录管理"><a href="#目录管理" class="headerlink" title="目录管理"></a>目录管理</h1><h2 id="文件控制块-FCB"><a href="#文件控制块-FCB" class="headerlink" title="文件控制块(FCB)"></a>文件控制块(FCB)</h2><h2 id="文件目录"><a href="#文件目录" class="headerlink" title="文件目录"></a>文件目录</h2><h2 id="目录结构"><a href="#目录结构" class="headerlink" title="目录结构"></a>目录结构</h2><h3 id="单级目录"><a href="#单级目录" class="headerlink" title="单级目录"></a>单级目录</h3><h3 id="两级目录"><a href="#两级目录" class="headerlink" title="两级目录"></a>两级目录</h3><h3 id="多级目录"><a href="#多级目录" class="headerlink" title="多级目录"></a>多级目录</h3><h1 id="空闲空间管理"><a href="#空闲空间管理" class="headerlink" title="空闲空间管理"></a>空闲空间管理</h1><h2 id="位示图-Bitmap"><a href="#位示图-Bitmap" class="headerlink" title="位示图(Bitmap)"></a>位示图(Bitmap)</h2><h2 id="空闲块列表"><a href="#空闲块列表" class="headerlink" title="空闲块列表"></a>空闲块列表</h2><h2 id="空闲链表"><a href="#空闲链表" class="headerlink" title="空闲链表"></a>空闲链表</h2><h3 id="空闲块链"><a href="#空闲块链" class="headerlink" title="空闲块链"></a>空闲块链</h3><h3 id="成组链接"><a href="#成组链接" class="headerlink" title="成组链接"></a>成组链接</h3><h1 id="文件的存取控制"><a href="#文件的存取控制" class="headerlink" title="文件的存取控制"></a>文件的存取控制</h1><h2 id="文件共享"><a href="#文件共享" class="headerlink" title="文件共享"></a>文件共享</h2><h3 id="系统打开文件表-OFT"><a href="#系统打开文件表-OFT" class="headerlink" title="系统打开文件表(OFT)"></a>系统打开文件表(OFT)</h3><h3 id="用户打开文件表"><a href="#用户打开文件表" class="headerlink" title="用户打开文件表"></a>用户打开文件表</h3><h2 id="文件保护"><a href="#文件保护" class="headerlink" title="文件保护"></a>文件保护</h2><h3 id="口令保护"><a href="#口令保护" class="headerlink" title="口令保护"></a>口令保护</h3><h3 id="密码保护"><a href="#密码保护" class="headerlink" title="密码保护"></a>密码保护</h3><h3 id="存储控制矩阵"><a href="#存储控制矩阵" class="headerlink" title="存储控制矩阵"></a>存储控制矩阵</h3><h3 id="存取控制表"><a href="#存取控制表" class="headerlink" title="存取控制表"></a>存取控制表</h3><h1 id="文件系统调用"><a href="#文件系统调用" class="headerlink" title="文件系统调用"></a>文件系统调用</h1><h1 id="虚拟文件系统-VFS"><a href="#虚拟文件系统-VFS" class="headerlink" title="虚拟文件系统(VFS)"></a>虚拟文件系统(VFS)</h1>]]></content>
+      
+      
+      <categories>
+          
+          <category> 操作系统 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 课程笔记 </tag>
+            
+            <tag> 操作系统 </tag>
+            
+            <tag> 文件系统 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>第6章-处理器调度</title>
       <link href="posts/50af1856.html"/>
       <url>posts/50af1856.html</url>
